@@ -1,0 +1,10 @@
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\bin\Debug\Wifi Sifre Bulma.exe.config
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\bin\Debug\Wifi Sifre Bulma.exe
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\bin\Debug\Wifi Sifre Bulma.pdb
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi Sifre Bulma.csproj.AssemblyReference.cache
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi_Sifre_Bulma.Form1.resources
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi_Sifre_Bulma.Properties.Resources.resources
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi Sifre Bulma.csproj.GenerateResource.cache
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi Sifre Bulma.csproj.CoreCompileInputs.cache
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi Sifre Bulma.exe
+C:\Users\mfati\Desktop\Visual Studio Kodlar\Wifi Sifre Bulma\Wifi Sifre Bulma\obj\Debug\Wifi Sifre Bulma.pdb
